@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @enit9747
 - 👀 I’m interested in c# & c++
-- 🌱 I’m currently learning c# & c++
+- 🌱 I’m currently learning java
 - 📫 Reach me via discord: enit#9747
 
 <!---
