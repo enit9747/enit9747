@@ -1,4 +1,3 @@
-![](https://komarev.com/ghpvc/?enit9747)
 enit#0465
 
 <!---
